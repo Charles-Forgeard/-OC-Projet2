@@ -2,7 +2,7 @@
 
 Ce repository contient le projet numéro 2 du parcours proposé par OpenClassrooms pour obtenir le diplôme de développeur Web.
 
-Ce projet intitulé: "Transformez votre CV en site Web", propose de réaliser un CV à partir d'une maquette (voir maquette.jpeg).
+Ce projet intitulé: "Transformez votre CV en site Web", propose de réaliser un CV à partir d'une maquette (voir [maquetteCV.png](https://github.com/Charles-Forgeard/-OC-Projet2/blob/master/maquetteCV.png)).
 L'objectif étant de développer ces compétences:
 - Définir la structure d'une page web à partir d'une maquette
 - Assurer la conformité d'une page web aux standards HTML et CSS
@@ -18,7 +18,7 @@ Il n'est pas demandé de contribution autre que des conseils bienveillants.
 
 ## Contributeurs
 
-Merci de lire le fichier [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426), pour plus de détails sur la manière de contribuer.
+Merci de lire le fichier [CONTRIBUTING.md](https://github.com/Charles-Forgeard/-OC-Projet2/blob/master/CONTRIBUTING.md), pour plus de détails sur la manière de contribuer.
 
 ## Versioning
 
@@ -26,7 +26,7 @@ En discution.
 
 ## Auteur(s)
 
-* **Charles Forgeard** *[Charles-Forgeard](https://github.com/Charles-Forgeard)
+- **Charles Forgeard** [Charles-Forgeard](https://github.com/Charles-Forgeard)
 
 Voyez la liste des [contributeurs](https://github.com/Charles-Forgeard/-OC-Projet2/blob/master/thanksToContributors.md) qui ont participé au projet.
 
